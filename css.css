@@ -119,6 +119,8 @@ body{
 .acbody{
 	background-image: url("pr.jpg");
 	background-size: cover;
+	opacity:0.4;
+	background-repeat: no-repeat;
 }
 
 .back{
